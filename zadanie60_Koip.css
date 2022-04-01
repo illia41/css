@@ -1,0 +1,33 @@
+/* hover - Polecenie pozwala nadać określone atrybuty formatowania dla elementów, nad którymi znajduje się 
+	wskaźnik myszki, kiedy użytkownik jeszcze ich nie kliknął, tzn. nie zostały jeszcze aktywowane*/
+/* Koipysh Illia */
+#blok1_koipysh{
+	width: 309px;
+	background-color: #2E8B57;
+	font-size: 21mm;
+}
+#blok2_koipysh{
+	width: 309px;
+	background-color: #2E8B57;
+	font-size: 21mm;
+}
+#blok3_koipysh{
+	width: 309px;
+	background-color: #2E8B57;
+	font-size: 21mm;
+}
+#blok1_koipysh:hover{
+	color: #FFFF00;
+	width: 400px;
+	font-size: 50mm;
+}
+#blok2_koipysh:hover{
+	color: #FFFF00;
+	width: 400px;
+	font-size: 50mm;
+}
+#blok3_koipysh:hover{
+	color:#C0C0C1 ;
+	width: 400px;
+	font-size: 50mm;
+}
